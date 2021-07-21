@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Soumyadeep Samanta
-- 👀 I’m interested in exploring the applications of Machine Learning and Data Science in real life
-- 🌱 I’m currently learning Statistics with Python
+- 👀 I’m interested in exploring the applications of Machine Learning and Data Science in real life.
+- 🌱 I’m currently working on a project that I created a year back, I hope to keep working on the project as well as other projects.
 - 📫 How to reach me: mail - soumyadeepsamanta41@gmail.com 
                       linkedin - https://www.linkedin.com/in/soumyadeep-samanta/ 
 
